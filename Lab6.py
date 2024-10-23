@@ -53,5 +53,6 @@ def main():
         else:
             print("Invalid option, please try again.")
 
+#This was really fun!
 if __name__ == "__main__":
     main()
